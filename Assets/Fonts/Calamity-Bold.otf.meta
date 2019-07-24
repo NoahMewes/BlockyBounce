@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: cab741090654c364e9c4ce9ef1fdc8bf
+timeCreated: 1501720295
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Calamity
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 22b5734d43f6f7043a8c8122256bd840, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
